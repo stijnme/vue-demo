@@ -19,17 +19,17 @@ export default {
       items: [],
       headers: [
         {
-          text: "CompanyName",
+          text: "Company Name",
           value: "CompanyName",
           sortable: false
         },
         {
-          text: "WebAddress",
+          text: "Website",
           value: "WebAddress",
           sortable: false
         },
         {
-          text: "EmailAddress",
+          text: "Email",
           value: "EmailAddress",
           sortable: false
         }
